@@ -5,10 +5,7 @@
   "scripts": {
     "start": "node server.ts",
     "test": "jest",
-    "test:coverage": "jest --coverage",
-    "create-collection-docs": "npx tsx scripts/create-collection.ts",
-    "index-docs": "npx tsx scripts/index.docs.ts",
-    "search-test": "npx tsx scripts/search-test.ts"
+    "test:coverage": "jest --coverage"
   },
   "keywords": [],
   "author": "",
